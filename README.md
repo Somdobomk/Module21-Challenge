@@ -1,7 +1,7 @@
 # Module 21 - MERN - Book Search Engine
 
 <h1 align="center">
-    <a href="https://module21.herokuapp.com/" target="_blank">
+    <a href="https://nervous-brown-3959c1.netlify.app/" target="_blank">
     View Demo
     </a>
 </h1>
