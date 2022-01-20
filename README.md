@@ -20,7 +20,7 @@
 
 ## About <a name = "about"></a>
 
-This is a React app that allows users to search for books and save them to their own personal library.
+This is a fully functional Google Books API search engine. It was created with Resful API and I refactored it to the GraphQL API build with Apollo Server.
 
 ## Getting Started <a name = "getting_started"></a>
 
@@ -67,15 +67,19 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 ```
 
 ### Prerequisites
-
+- [MERN](https://www.mongodb.com/mern-stack)
+- [MongoDB](https://www.mongodb.com/)
 - [Node.js](https://nodejs.org/en/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [React](https://reactjs.org/)
+- [Express](https://expressjs.com/)
+- [React](https://reactjs.com/)
+- [Apollo Server](https://www.apollographql.com/docs/apollo-server/)
+- [GraphQL](https://graphql.org/)
 
 ### Installing
 
 1. Clone this repo.
 2. Navigate to repo folder.
-3. Run `npm install`
-4. Run `npm run start`
-5. Open the browser and navigate to 'http://localhost:3000/'
+3. Navigate to client folder.
+4. Run `npm install`
+5. Run `npm run start`
+6. Open the browser and navigate to 'http://localhost:3000/'
